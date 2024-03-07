@@ -1,5 +1,5 @@
 
-![logo3](https://github.com/gitbravehub/salaryPrediction_EU_NA_SA/assets/150353983/c32f00e7-72b8-43da-8b1b-669f35f41c8d)
+![Captura de pantalla 2024-03-07 a la(s) 16 31 27](https://github.com/gitbravehub/salaryPrediction_EU_NA_SA/assets/150353983/4c11d61c-9f3c-40f3-a271-dd2b5b349b10)
 
 # 💸 Software Engineer Salary Landscape in Europe - South America - North America 💰
 
