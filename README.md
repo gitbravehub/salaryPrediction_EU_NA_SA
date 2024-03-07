@@ -1,9 +1,12 @@
-![image](https://github.com/gitbravehub/salary_prediction_EU_NA_SA/assets/150353983/01eeac40-ee0c-451c-8b14-78a6b2f49839)
+
+![Captura de pantalla 2024-03-07 a la(s) 16 31 27](https://github.com/gitbravehub/salaryPrediction_EU_NA_SA/assets/150353983/4c11d61c-9f3c-40f3-a271-dd2b5b349b10)
 
 # 💸 Software Engineer Salary Landscape in Europe - South America - North America 💰
+
 This interactive application provides an in-depth analysis of the software engineer salary landscape across Europe, South America, and North America. Explore various insights into salary distributions, the impact of education, experience, and country on salaries, and predictions based on comprehensive data analysis.
 
-![Captura de pantalla 2024-03-07 a la(s) 14 50 15](https://github.com/gitbravehub/salary_prediction_EU_NA_SA/assets/150353983/6bf2e9d9-09b3-41c9-9cd6-7f0473018e29)
+![Captura de pantalla 2024-03-07 a la(s) 16 30 13](https://github.com/gitbravehub/salaryPrediction_EU_NA_SA/assets/150353983/5e8759c5-4cda-4b86-a352-fab21b62bae8)
+
 
 # General Objective 🗺️
 To conduct a comprehensive data-driven analysis of software engineer salaries across Europe, South America, and North America, with the aim of understanding regional disparities and developing robust, region-specific predictive models. This analysis seeks to offer a granular understanding of the factors influencing salary variations and to ensure accurate salary predictions that are sensitive to the economic realities of each continent.
@@ -23,4 +26,5 @@ To mitigate the impact of wage disparities when aggregating salary data by train
 **Objective 5:** Enhanced Accuracy in Salary Predictions
 To enhance the accuracy of salary predictions by creating tailored models that take into account the economic and professional nuances of each studied region, thereby providing more relevant insights for stakeholders.
 
-![Captura de pantalla 2024-03-07 a la(s) 14 49 50](https://github.com/gitbravehub/salary_prediction_EU_NA_SA/assets/150353983/23d11ffa-2151-47d5-8009-625b6dffc0f0)
+
+![Captura de pantalla 2024-03-07 a la(s) 16 29 54](https://github.com/gitbravehub/salaryPrediction_EU_NA_SA/assets/150353983/6d7b1c92-7ec8-46cc-83f3-a881e41ebb55)
