@@ -147,6 +147,8 @@ def show_explore_page():
     st.markdown(""" """)
     with st.expander("More Details on the Dataset", expanded=False):
         st.write("""
+        We included 04 datasets in our analysis, each containing information on software engineer salaries, experience, and education levels. The datasets were sourced from the reputable Stack Overflow Annual Developer Survey of the years 2020, 2021, 2022, 2023.
+
         The Stack Overflow Annual Developer Survey is a comprehensive survey that gathers information from thousands of developers across the globe. This survey covers a range of topics, including the highest level of formal education that developers have completed, how developers learn to code, the online resources they use, their professional experience, and much more.
 
         One of the key takeaways from the 2023 survey was the varied educational backgrounds of the respondents, ranging from primary/elementary school to professional degrees such as JD, MD, and Ph.D.​​. The survey highlights the diverse ways in which individuals learn to code, showing an increasing trend towards online resources and certifications, especially among younger age groups. Moreover, the survey points out the popular online platforms and resources that developers rely on to learn coding, which includes technical documentation and communities like Stack Overflow itself​​.
