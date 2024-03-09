@@ -5,6 +5,9 @@
 
 This interactive application provides an in-depth analysis of the software engineer salary landscape across Europe, South America, and North America. Explore various insights into salary distributions, the impact of education, experience, and country on salaries, and predictions based on comprehensive data analysis.
 
+#### Take a look at the streamlit app here in this link: https://salarypredictioneunasa.streamlit.app/
+
+
 ![Captura de pantalla 2024-03-07 a la(s) 16 30 13](https://github.com/gitbravehub/salaryPrediction_EU_NA_SA/assets/150353983/5e8759c5-4cda-4b86-a352-fab21b62bae8)
 
 
